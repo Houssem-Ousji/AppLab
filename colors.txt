@@ -1,0 +1,8 @@
+#feaa25 orange
+#2500f9 bleu
+#09142e bleu of the footer
+#27304
+#242f51 bleu of the fonts
+#616368 gris of the fonts
+#e2eaed tick background
+#f55767 red of the fonts
