@@ -7,7 +7,7 @@
 body {
     margin: 0;
     padding: 0;
-    height: 3000px;
+    height: 6000px;
 }
 
 
@@ -349,3 +349,66 @@ header {
 
 
 /* End jackpot section */
+
+
+/* Start integration section*/
+
+.integration img {
+    max-width: 100%;
+}
+
+.integration h1 {
+    color: #242f51;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+
+.integration p {
+    color: #616368;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+}
+
+.integration .btn-primary {
+    background-color: #2500f9;
+    color: white;
+    border-radius: 28.5px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    border-color: transparent;
+}
+
+.integration .btn-primary:hover {
+    opacity: 0.8;
+}
+
+.integration .btn-check:focus+.btn,
+.integration .btn:focus {
+    box-shadow: none;
+}
+
+.integration .btn-check:active+.btn-primary:focus,
+.integration .btn-check:checked+.btn-primary:focus,
+.integration .btn-primary.active:focus,
+.integration .btn-primary:active:focus,
+.integration .show>.btn-primary.dropdown-toggle:focus {
+    box-shadow: none;
+}
+
+@media screen and (max-width:992px) {
+    .integration_description {
+        text-align: center;
+    }
+    .integration_description h1,
+    .integration p {
+        margin-bottom: 30px;
+    }
+}
+
+.integration {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+
+/* End integration section */
