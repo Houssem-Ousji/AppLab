@@ -212,6 +212,11 @@ header {
 
 /* Start Features section */
 
+.Features {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
 .Features .Phone_bg img {
     max-width: 100%;
 }
@@ -412,3 +417,47 @@ header {
 
 
 /* End integration section */
+
+
+/* Start Choose section */
+
+.choose {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.choose h1 {
+    color: #242f51;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.choose p {
+    color: #616368;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+}
+
+.choose .choose_intro {
+    margin-bottom: 40px;
+}
+
+.choose img {
+    max-width: 100%;
+    width: 75px;
+    margin-bottom: 30px;
+}
+
+.choose h4 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    color: #242f51;
+}
+
+.choice_item {
+    margin-bottom: 40px;
+}
+
+
+/* End Choose section */
