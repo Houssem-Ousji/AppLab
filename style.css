@@ -466,3 +466,51 @@ header {
     padding-top: 100px;
     padding-bottom: 100px;
 }
+
+.ultimate_description {
+    margin-bottom: 40px;
+}
+
+.ultimate_icons img {
+    max-width: 100%;
+    margin-top: 100px;
+}
+
+.ultimate_description h1 {
+    color: #242f51;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+
+.ultimate_description p {
+    color: #616368;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+}
+
+.ultimate_features_item {
+    text-align: center;
+}
+
+.ultimate_features_item img {
+    margin-bottom: 30px;
+    width: 75px;
+}
+
+.ultimate_features h4 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    color: #242f51;
+}
+
+.ultimate_features p {
+    color: #616368;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+}
+
+@media screen and (max-width:992px) {
+    .ultimate_description {
+        text-align: center;
+    }
+}
