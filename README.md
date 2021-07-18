@@ -18,7 +18,7 @@
 
  
 
-#### You can see in this video the different components of the website:
+### You can see in this video the different components of the website:
 https://user-images.githubusercontent.com/86334640/126070404-5adc906b-95cf-4812-8432-49ce9e024b47.mp4
 
 ### You can see in this video the "fully responsive feature":
