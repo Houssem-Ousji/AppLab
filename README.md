@@ -21,4 +21,10 @@
 ### You can see in this video the different components of the website:
 
 
+
 ### You can see in this video the "fully responsive feature":
+
+
+https://user-images.githubusercontent.com/86334640/126071648-247f055a-5b71-4dfe-b15e-be2686e219e7.mp4
+
+
