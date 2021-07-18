@@ -18,5 +18,7 @@
 
  
 
-#### Note : The Best way To learn is the Practice So i create this page using my new skills
- 
+### You can see in this video the different components of the website:
+
+
+### You can see in this video the "fully responsive feature":
