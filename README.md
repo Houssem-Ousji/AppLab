@@ -26,6 +26,8 @@ https://user-images.githubusercontent.com/86334640/126070404-5adc906b-95cf-4812-
 
 https://user-images.githubusercontent.com/86334640/126070659-7e6a3ff3-d2d2-4e18-9f1f-09b2841658e2.mp4
 
+### Note: The Purpose of creating this page is practicing my courses and showing my works
+
 
 
 
