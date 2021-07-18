@@ -18,5 +18,7 @@
 
  
 
-#### Note : The Best way To learn is the Practice So i create this page using my new skills
- 
+#### You can see in this video the different components of the website:
+https://user-images.githubusercontent.com/86334640/126070404-5adc906b-95cf-4812-8432-49ce9e024b47.mp4
+
+
