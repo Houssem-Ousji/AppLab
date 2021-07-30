@@ -835,3 +835,11 @@ footer p {
         margin-bottom: 30px;
     }
 }
+
+.hidden {
+    display: none;
+}
+
+.show {
+    display: block;
+}
