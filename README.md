@@ -1,8 +1,7 @@
 # AppLab
 ### Overview :
+![mockup](https://user-images.githubusercontent.com/86334640/127805515-c151b8fd-d915-4412-8d5e-876b2b75d7c9.png)
 
-![—Pngtree—desktop computer graphics_4085227](https://user-images.githubusercontent.com/86334640/126885842-7a854aa8-3443-448b-a566-b3a68a5e6551.png)
-![—Pngtree—mobile phone frame mockup png_5843187](https://user-images.githubusercontent.com/86334640/126885845-d536da7e-b357-4e45-b467-f10f453a6c7a.png)
 
 
 
