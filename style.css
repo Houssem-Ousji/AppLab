@@ -379,10 +379,11 @@ header {
     font-family: 'Poppins', sans-serif;
     font-weight: 700;
     border-color: transparent;
+    transition: 0.2s;
 }
 
 .integration .btn-primary:hover {
-    opacity: 0.8;
+    opacity: 0.6;
 }
 
 .integration .btn-check:focus+.btn,
@@ -524,10 +525,11 @@ header {
     font-family: 'Poppins', sans-serif;
     font-weight: 700;
     border-color: transparent;
+    transition: 0.2s;
 }
 
 .ultimate_features .btn-primary:hover {
-    opacity: 0.8;
+    opacity: 0.6;
 }
 
 .ultimate_features .btn-check:focus+.btn,
