@@ -1,10 +1,12 @@
 # AppLab
 ### Overview :
-
-![—Pngtree—desktop computer graphics_4085227](https://user-images.githubusercontent.com/86334640/126885842-7a854aa8-3443-448b-a566-b3a68a5e6551.png)
-![—Pngtree—mobile phone frame mockup png_5843187](https://user-images.githubusercontent.com/86334640/126885845-d536da7e-b357-4e45-b467-f10f453a6c7a.png)
+![mockup](https://user-images.githubusercontent.com/86334640/127805515-c151b8fd-d915-4412-8d5e-876b2b75d7c9.png)
 
 
+### You can find The Template here : [AppLab](https://github.com/Houssem-Ousji/AppLab/blob/main/Home_page.png)
+
+
+### You can check it in the live Demo : [AppLab](https://houssem-ousji.github.io/AppLab-Landing-page/)
 
 
 ### Technologies Used : 
@@ -22,21 +24,3 @@
 * [<img align="left" alt="Font Awesome" width="26px" src="https://www.drupal.org/files/project-images/font_awesome_logo.png" />]()[Font Awesome](https://fontawesome.com/)
 
 * [<img align="left" alt="Google Fonts" width="26px" src="https://user-images.githubusercontent.com/86334640/125142726-b52caa00-e118-11eb-829b-c14afb33c4e1.png" />]()[Google Fonts](https://fonts.google.com/)
-
-You can find The Template here : [AppLab](https://github.com/Houssem-Ousji/AppLab/blob/main/Home_page.png)
-
-
-### You can see in this video the different components of the website:
-
-
-
-https://user-images.githubusercontent.com/86334640/126071808-40649e48-7471-4447-a1c7-deb03adb2cc1.mp4
-
-
-
-### You can see in this video the "fully responsive feature":
-
-
-https://user-images.githubusercontent.com/86334640/126071648-247f055a-5b71-4dfe-b15e-be2686e219e7.mp4
-
-
